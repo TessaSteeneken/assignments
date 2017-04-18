@@ -4,3 +4,5 @@
 [assignment week 4](https://github.com/TessaSteeneken/assignments/blob/master/Assignment_week_4%20(3).ipynb) 
 
 [assignment week 5](https://github.com/TessaSteeneken/assignments/blob/master/Assignment_week_5%20(1).ipynb)
+
+[assignment week 6](https://github.com/TessaSteeneken/assignments/blob/master/assignment4goed.ipynb)
