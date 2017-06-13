@@ -8,3 +8,6 @@
 [assignment week 6](https://github.com/TessaSteeneken/assignments/blob/master/assignment4goed.ipynb)
 
 [assignment week 8](https://github.com/TessaSteeneken/assignments/blob/master/assignment5goed.ipynb)
+
+[final python assignment](https://github.com/TessaSteeneken/assignments/blob/master/Final_Assignment_Python_1_students%2Cgoed.ipynb)
+
